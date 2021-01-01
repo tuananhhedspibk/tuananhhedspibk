@@ -4,8 +4,6 @@
 
 I'm Anh, from Vietnam. Know :jp: :gb: , currently working in :jp: .
 
-Looking for Frontend and Backend jobs.
-
 ### Languages and Tools
 
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/></code>
