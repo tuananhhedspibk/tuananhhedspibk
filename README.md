@@ -2,7 +2,7 @@
 
 [![by: Vietnamese](https://raw.githubusercontent.com/webuild-community/badge/master/svg/by.svg)](https://webuild.community/)
 
-I'm Anh, from 🇻🇳. Currently working at :jp:  as 👨‍💻
+I'm Anh, from 🇻🇳 and be a 👨‍💻
 
 ### Github statistic
 
