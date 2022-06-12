@@ -2,7 +2,7 @@
 
 [![by: Vietnamese](https://raw.githubusercontent.com/webuild-community/badge/master/svg/by.svg)](https://webuild.community/)
 
-I'm Anh, from 🇻🇳 and be a 👨‍💻, like to build 🚚 🚋 system by 💻
+I'm Anh, from 🇻🇳 and be a 👨‍💻, like to build a system by DDD
 
 ### Github statistic
 
