@@ -45,3 +45,10 @@ Currently have interested in System design 👷 🏗️
 
 #### Deep Learning 🤖
 <a><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow"/></a>
+
+#### Architecture 🏗️
+
+Clean architeture + DDD
+<br/>
+<img width="480" src="https://user-images.githubusercontent.com/15076665/184592966-5cceea78-a74f-4938-8aa8-6a88a8e383db.png" />
+
