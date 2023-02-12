@@ -4,7 +4,7 @@
 
 I'm Anh, from 🇻🇳 and be a 👨‍💻, like to build a system by DDD.
 
-Currently have interested in System design 👷 🏗️
+Currently have interested in System Design 👷 🏗️ and Database.
 
 ### Github statistic
 
