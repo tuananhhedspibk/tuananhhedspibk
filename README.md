@@ -52,3 +52,5 @@ Clean architeture + DDD
 <br/>
 <img width="480" src="https://user-images.githubusercontent.com/15076665/184592966-5cceea78-a74f-4938-8aa8-6a88a8e383db.png" />
 
+CQRS, Event Sourcing
+![Screen Shot 2023-09-16 at 13 32 19](https://github.com/tuananhhedspibk/tuananhhedspibk/assets/15076665/769f53ac-c09c-40a6-810a-78bbb642b955)
