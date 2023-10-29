@@ -16,7 +16,7 @@ Currently have interested in System Design 👷 🏗️ and Database.
 <a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
 <a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
 
-#### Cloud ☁️
+#### Infrastructure
 <a><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></a>
 
 #### Programming Language 💻
