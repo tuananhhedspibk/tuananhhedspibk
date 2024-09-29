@@ -8,7 +8,7 @@ Currently have interested in System Design 👷 🏗️ , Terraform and AWS.
 
 Feel free to connect with my <a href="https://www.linkedin.com/in/tuan-anh-tran-539643125/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)]([https://www.buymeacoffee.com/gbraad](https://buymeacoffee.com/tuananhhedspibk)) if you like me.
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/tuananhhedspibk) if you like me.
 
 ### Github statistic
 
